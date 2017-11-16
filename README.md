@@ -1,2 +1,2 @@
 # hello-world
-a new repository
+Hi, my name is Dam Nguyen. I like freediving.
